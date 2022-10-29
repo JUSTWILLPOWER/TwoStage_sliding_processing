@@ -61,6 +61,11 @@
 
 
 ## 使用方法
+
+**注意，要下载数据，需要使用[lfs](https://git-lfs.github.com/)命令**
+
+`git lfs clone https://github.com/JUSTWILLPOWER/TwoStage_sliding_processing.git`
+
 `bash ./start.sh`
 
 文件最后会将数据放在dataset文件夹中，并进行zip打包
